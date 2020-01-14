@@ -1,8 +1,8 @@
-baseURL = "https://jaivardhan94.github.io/"
+baseURL = "https://Asayesha.github.io/"
 languageCode = "en-us"
 title = "Sayesha Aravapalli"
 theme = "hugo-resume"
-publishDir = "jaivardhan94.github.io"
+publishDir = "Asayesha.github.io"
 [params]
     firstName = "Sayesha"
     lastName = "Aravapalli"
