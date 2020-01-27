@@ -9,8 +9,8 @@ publishDir = "Asayesha.github.io"
     address = "Austin, TX"
     phone = "1-512-905-1548"
     contactNote = "Maters of Science in Business Analytics, UT Austin"
-    profileImage = "img/TechChat.png"
-    email = "sayesha.100@gmail.com"
+    profileImage = "img/DP.png"
+    email = "sayesha.aravapalli@utexas.edu"
     description = "Masters student at McCombs School of Business, UT Austin with an experience in analytics in the pharmeceutical industry."
     favicon = "/favicon.ico"
     # what sections
@@ -20,6 +20,7 @@ publishDir = "Asayesha.github.io"
     showPublications = false
     showExperience = true
     showEducation = true
+    showResume = true
 
     showQr = false
 
@@ -37,9 +38,11 @@ publishDir = "Asayesha.github.io"
     name = "GitHub"
     link = "https://github.com/asayesha/"
 
+
 [[params.handles]]
-    name = "Medium"
-    link = "https://www.facebook.com/sayesha.aravapalli"
+    name = "Gmail"
+    link = "mailto:sayesha.aravapalli@utexas.edu"
+    icon = "fas fa-envelope"
 
 
 

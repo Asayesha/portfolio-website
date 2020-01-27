@@ -1,20 +1,26 @@
 [
     {
-        "role":"Analyst",
-        "company":"Aspect Ratio",
-        "summary":"International business strategy development for Merk's anti biotic drug segment.",
+        "role":"Visa",
+        "company":"Capstone Intern",
+        "summary":"\n- Building models using Graph analytics to identify frauds matured out of time using historical fraud transactions.",
+        "range":"February 2020 - Present"
+    },
+    {
+        "role":"Aspect Ratio",
+        "company":"Analyst",
+        "summary":"\n- Developed market opportunity analyzer to evaluate potential market opportunities for anti-anesthetic drugs.\n- Designed and developed Spotfire-based dashboards to track KPI and generate insights for revenue estimation.",
         "range":"July 2017 - October 2018"
     },
     {
-        "role":"Summer Analyst",
-        "company":"KPMG",
-        "summary":"summary for kpmg intern.",
+        "role":"KPMG",
+        "company":"Summer Analyst",
+        "summary":"\n- Automated operational risk estimation to deliver an integrated stress testing framework.",
         "range":"May 2016 - June 2016"
     },
     {
-        "role":"Summer Analyst",
-        "company":"DBS Bank",
-        "summary":"summary for dbs intern.",
+        "role":"DBS Bank",
+        "company":"Summer Analyst",
+        "summary":"\n- Identified opportunity areas by evaluating cross sell indexation of product exposure to clients.",
         "range":"May 2015 - June 2015"
     }
 ]

@@ -1,6 +1,6 @@
 [
   {
       "grouping":"",
-      "skills":[ "Python", "R","MySQL","GraphQL", "Hadoop", "Hive", "Git", "iPython/Jupyter","AWS","Google Cloud"]
+      "skills":[ "Python", "R","MySQL","GraphQL", "Hadoop", "Mapreduce", "Hive", "Git", "iPython/Jupyter", "AWS", "Google Cloud", "Google Vision", "Google Analytics"]
   }
 ]

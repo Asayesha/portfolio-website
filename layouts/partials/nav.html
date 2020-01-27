@@ -48,6 +48,11 @@
             <a class="nav-link js-scroll-trigger" href="/#blog">Blog</a>
           </li>
       {{ end }}
+       {{ if .Site.Params.showResume }}
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/docs/1_25 Resume.pdf">Resume</a>
+          </li>
+      {{ end }}
       <li class="nav-item">
         <a class="nav-link js-scroll-trigger" href="#"></a>
       </li>
