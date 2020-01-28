@@ -2,7 +2,7 @@
     {
         "role":"Visa",
         "company":"Capstone Intern",
-        "summary":"\n- Building models using Graph analytics to identify frauds matured out of time using historical fraud transactions.",
+        "summary":"\n- Fraud patterns keep changing frequenlty and it is important to capture current fraud patterns using most recent transaction data.Traditional supervised models dont perform very well. The aim of the project is to find semi-supervised/unsupervised methods to detect fraud pattern. In particular, we will be using DBSCAN and graph based methods to detect unusual patterns and alert stakeholders. ",
         "range":"February 2020 - Present"
     },
     {
