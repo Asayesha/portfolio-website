@@ -18,6 +18,16 @@
             <a class="nav-link js-scroll-trigger" href="/#skills">Skills</a>
           </li>
       {{ end }}
+      {{ if .Site.Params.showEducation }}
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#education">Education</a>
+          </li>
+      {{ end }}
+      {{ if .Site.Params.showExperience }}
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#experience">Experience</a>
+          </li>
+      {{ end }}
       {{ if .Site.Params.showProjects }}
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/#projects">Projects</a>
@@ -33,16 +43,6 @@
             <a class="nav-link js-scroll-trigger" href="/#publications">Publications</a>
           </li>
       {{ end }}
-      {{ if .Site.Params.showExperience }}
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/#experience">Experience</a>
-          </li>
-      {{ end }}
-      {{ if .Site.Params.showEducation }}
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/#education">Education</a>
-          </li>
-      {{ end }}
       {{ if .Site.Params.showBlog }}
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/#blog">Blog</a>
@@ -50,48 +50,9 @@
       {{ end }}
        {{ if .Site.Params.showResume }}
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/docs/1_25 Resume.pdf">Resume</a>
+            <a class="nav-link js-scroll-trigger" href="/docs/Resume.pdf" target="_blank">Resume</a>
           </li>
       {{ end }}
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="#"></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="#"></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="#"></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="#"></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="#"></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="#"></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="#"></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="#"></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="#"></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="#"></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="#"></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="#"></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="#"></a>
-      </li>
     </ul>
   </div>
 </nav>
