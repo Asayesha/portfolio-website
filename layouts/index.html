@@ -6,12 +6,6 @@
    {{ if .Site.Params.showEducation }}
        {{ partial "portfolio/education.html" . }}
    {{ end }}
-   {{ if .Site.Params.showProjects }}
-      {{ with .Site.GetPage "section" "projects/projects" }}
-         {{ .Scratch.Set "sectionId" "projects" }}
-         {{ partial "sectionSummary" . }}
-      {{ end }}
-   {{ end }}
    {{ if .Site.Params.showOpenSource }}
       {{ with .Site.GetPage "section" "projects/contributions" }}
          {{ .Scratch.Set "sectionId" "open" }}
@@ -27,7 +21,12 @@
    {{ if .Site.Params.showExperience }}
        {{ partial "portfolio/experience.html" . }}
    {{ end }}
-
+   {{ if .Site.Params.showProjects }}
+      {{ with .Site.GetPage "section" "projects/projects" }}
+         {{ .Scratch.Set "sectionId" "projects" }}
+         {{ partial "sectionSummary" . }}
+      {{ end }}
+   {{ end }}
    {{ if .Site.Params.showBlog }}
       {{ with .Site.GetPage "section" "blog" }}
          {{ .Scratch.Set "sectionId" "blog" }}
