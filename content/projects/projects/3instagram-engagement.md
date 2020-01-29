@@ -8,8 +8,12 @@
           "User Engagement Improvement",
           "Google Vision Cloud",
           "WebScraping",
-          "NewsFeed Analysis"
-        ],
+          "NewsFeed Analysis",
+          "Topic modelling" ,
+          "Latent Dirichlet allocation",
+          "TF-IDF",
+          "Logistic regression"
+           ],
     "fact":"",
     "featured":true
 }

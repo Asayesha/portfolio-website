@@ -2,25 +2,25 @@
     {
         "role":"Visa",
         "company":"Capstone Intern",
-        "summary":"\n- Fraud patterns keep changing frequenlty and it is important to capture current fraud patterns using most recent transaction data.Traditional supervised models dont perform very well. The aim of the project is to find semi-supervised/unsupervised methods to detect fraud pattern. In particular, we will be using DBSCAN and graph based methods to detect unusual patterns and alert stakeholders. ",
+        "summary":" Fraud patterns keep changing frequenlty and it is important to capture current fraud patterns using most recent transaction data.Traditional supervised models don't perform very well. The aim of the project is to find semi-supervised/unsupervised methods to detect fraud patterns. In particular, we will be using DBSCAN and graph based methods to detect unusual patterns and alert stakeholders. ",
         "range":"February 2020 - Present"
     },
     {
-        "role":"Aspect Ratio",
+        "role":"Aspect Ratio, Merck's Centre for Analytics",
         "company":"Analyst",
-        "summary":"\n- Developed market opportunity analyzer to evaluate potential market opportunities for anti-anesthetic drugs.\n- Designed and developed Spotfire-based dashboards to track KPI and generate insights for revenue estimation.",
+        "summary":"Working as an analyst for one of the biggest players in the pharmecutical industry, I had the opportunity to tell stories with data about the KPIs of drugs.I assessed impact of market events such as entry of competitor's drug and loss of exclusivity of Merck's drug on sales and revenue in the anti-biotic drugs space based on therapy area knowledge and treatment protocol. Collaborated with LATAM, APAC and Gulf marketing teams to design and create market opportunity analyser for Bridion(anti-anesthetic drug)to increase focus on creating more product value before its loss of exclusivity",
         "range":"July 2017 - October 2018"
     },
     {
         "role":"KPMG",
         "company":"Summer Analyst",
-        "summary":"\n- Automated operational risk estimation to deliver an integrated stress testing framework.",
+        "summary":"Stress testing is an important aspect for financial institutions especially banks. It measures the health of the institution and the ability to withstand major financial crisis. As a part of team responsible to deliver an integrated stress testing framework to client, I automated the operational risk module.",
         "range":"May 2016 - June 2016"
     },
     {
         "role":"DBS Bank",
         "company":"Summer Analyst",
-        "summary":"\n- Identified opportunity areas by evaluating cross sell indexation of product exposure to clients.",
+        "summary": "Acquiring new customers is expensive for any company. To increase business, I identified opportunity areas for cross selling products. I evaluated cross sell index of product exposure for both retail and corporate clients.",
         "range":"May 2015 - June 2015"
     }
 ]
