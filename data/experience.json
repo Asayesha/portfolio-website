@@ -1,14 +1,14 @@
 [
     {
         "role":"Visa",
-        "company":"Capstone Intern",
+        "company":"Capstone Project",
         "summary":" Fraud patterns keep changing frequenlty and it is important to capture current fraud patterns using most recent transaction data.Traditional supervised models don't perform very well. The aim of the project is to find semi-supervised/unsupervised methods to detect fraud patterns. In particular, we will be using DBSCAN and graph based methods to detect unusual patterns and alert stakeholders. ",
         "range":"February 2020 - Present"
     },
     {
         "role":"Aspect Ratio, Merck's Centre for Analytics",
         "company":"Analyst",
-        "summary":"Working as an analyst for one of the biggest players in the pharmecutical industry, I had the opportunity to tell stories with data about the KPIs of drugs.I assessed impact of market events such as entry of competitor's drug and loss of exclusivity of Merck's drug on sales and revenue in the anti-biotic drugs space based on therapy area knowledge and treatment protocol. Collaborated with LATAM, APAC and Gulf marketing teams to design and create market opportunity analyser for Bridion(anti-anesthetic drug)to increase focus on creating more product value before its loss of exclusivity",
+        "summary":"Working as an analyst for one of the biggest players in the pharmecutical industry, I had the opportunity to tell stories with data about the KPIs of drugs.I assessed impact of market events such as entry of competitor's drug and loss of exclusivity of Merck's drug on sales and revenue in the anti-biotic drugs space based on therapy area knowledge and treatment protocol. Collaborated with LATAM, APAC and Gulf marketing teams to design and create market opportunity analyser for <em>Bridion</em>(anti-anesthetic drug) to increase focus on creating more product value before its loss of exclusivity",
         "range":"July 2017 - October 2018"
     },
     {
