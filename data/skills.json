@@ -1,11 +1,33 @@
 [
   {
       "grouping":"Skills",
-      "skills":[ "Python", "R","MySQL", "Hadoop", "Mapreduce", "Git", "iPython/Jupyter", "Google Cloud", "Google Vision", "Google Analytics", "Tableau"]
+      "skills":[ 
+      			"Python", 
+      			"R",
+      			"MySQL", 
+      			"Hadoop", 
+      			"Mapreduce", 
+      			"Git", 
+      			"iPython/Jupyter", 
+      			"Google Cloud", 
+      			"Google Vision", 
+      			"Google Analytics", 
+      			"Tableau"
+      			]
   },
   {
-       "grouping":"Modelling Skills",
-      "skills":[ "Linear Regression", "Logistic Regression","Naive Bayes","Principal component Analysis","Linear Discriminant analysis","Random Forest", "Boosting", "K-means clustering", "DBSCAN"]
+      "grouping":"Modelling Skills",
+      "skills":[ 
+      			"Linear Regression", 
+      			"Logistic Regression",
+      			"Naive Bayes",
+      			"Principal component Analysis",
+      			"Linear Discriminant analysis",
+      			"Random Forest", 
+      			"Boosting", 
+      			"K-means clustering", 
+      			"DBSCAN"
+      			]
   
   }
 ]

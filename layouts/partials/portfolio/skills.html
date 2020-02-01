@@ -2,8 +2,7 @@
   <div class="my-auto" id="skills-content">
     <h2 class="mb-5">Skills</h2>
     {{ range $.Site.Data.skills }}
-        <div class="subheading mb-3 skills-heading">{{ .grouping }}</div>
-
+        <div class="subheading mb-3 skills-heading" float:left>{{ .grouping }}</div>
             <ul>
             {{ range .skills }}
                 {{ if isset . "name" }}
@@ -20,7 +19,7 @@
                   <li class="list-inline-item">
                     <i class="devicons devicons-{{ cond (in $.Site.Data.devicons (lower .)) (lower .) "terminal_badge" }}"></i>
                     {{ . }}
-                  </li><br>
+                  </li>
                 {{ end }}
             {{ end }}
 
