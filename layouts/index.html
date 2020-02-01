@@ -33,6 +33,9 @@
          {{ partial "sectionSummary" . }}
       {{ end }}
    {{ end }}
+   {{ if .Site.Params.showContactSection }}
+       {{ partial "portfolio/contacts.html" . }}
+   {{ end }}
 
 
 {{ end }}

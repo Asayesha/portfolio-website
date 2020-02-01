@@ -21,6 +21,7 @@ publishDir = "Asayesha.github.io"
     showExperience = true
     showEducation = true
     showResume = true
+    showContactSection = true
 
     showQr = false
 

@@ -53,6 +53,11 @@
             <a class="nav-link js-scroll-trigger" href="/docs/Resume.pdf" target="_blank">Resume</a>
           </li>
       {{ end }}
+      {{ if .Site.Params.showContactSection }}
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#contacts">Contact</a>
+          </li>
+      {{ end }}
     </ul>
   </div>
 </nav>
