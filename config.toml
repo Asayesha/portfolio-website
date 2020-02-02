@@ -41,7 +41,7 @@ publishDir = "Asayesha.github.io"
 
 
 [[params.handles]]
-    name = "Gmail"
+    name = "Email"
     link = "mailto:sayesha.aravapalli@utexas.edu"
     icon = "fas fa-envelope"
 

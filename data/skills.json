@@ -1,6 +1,6 @@
 [
   {
-      "grouping":"Skills",
+      "grouping":"Languages/Platforms",
       "skills":[ 
       			"Python", 
       			"R",
@@ -9,9 +9,9 @@
       			"Mapreduce", 
       			"Git", 
       			"iPython/Jupyter", 
-      			"Google Cloud", 
-      			"Google Vision", 
-      			"Google Analytics", 
+            {"name":"Google Cloud", "icon":"google-cloud-platform"}, 
+            {"name":"Google Vision", "icon":"google-cloud-platform"}, 
+      			{"name":"Google Analytics", "icon":"google-cloud-platform"}, 
       			"Tableau"
       			]
   },
