@@ -7,7 +7,7 @@
     <ul>
       {{ range .Data.Pages }}
           <li>
-             <a href="{{.Permalink}}">{{.Params.displaytitle}}</a>
+             <a href="{{.Params.link}}">{{.Params.displaytitle}}</a>
          </li>
       {{ end }}
     </ul>
