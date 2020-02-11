@@ -36,11 +36,11 @@ h1 {
 
 h2 {
   font-size: 2.5rem;
-  color: #728782;
+  color: #6b706f;  
 }
 
 h3 {
-  color: #7e948f;
+  color: #848a89;
 }
 
 h5 {
@@ -156,11 +156,12 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #30c2a0;
+  color: #2EBA99;
 }
 
 a:hover, a:focus, a:active {
   color: #219679;
+  text-decoration: underline;
 }
 
 img {
