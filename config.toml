@@ -48,5 +48,5 @@ publishDir = "Asayesha.github.io"
 
 
 [params.google.analytics]
-    trackerID = "XX-123446-01"
+    trackerID = "UA-162055691-1"
 
